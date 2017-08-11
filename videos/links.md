@@ -2,3 +2,4 @@
 2. [Hashes and the Internet](https://www.youtube.com/watch?v=HgvTZRanVCE) | [Code](https://github.com/learn-co-curriculum/web-080717)
 3. Intro to OO
 4. [Object Relationships: Has Many/Belongs To](https://www.youtube.com/watch?v=QdnOpFrvA1s) | [Code](https://github.com/learn-co-curriculum/oo-relations-has-many-belongs-to-web-080717/)
+4. [Object Relations: Has Many Through; Object Architecture](https://www.youtube.com/watch?v=TcuLsROjws8) | [Code](https://github.com/learn-co-curriculum/oo-relations-has-many-belongs-to-web-080717) | [My Pets](https://github.com/learn-co-curriculum/my-pets-modules-redo-starter)
