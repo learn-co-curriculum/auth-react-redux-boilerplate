@@ -7,3 +7,4 @@
 7. Intro to ORMS
 8. Dynamic ORMS & Metaprogramming
 9. [Review & Intro to ActiveRecord](https://www.youtube.com/watch?v=L_MI74Zw08A) | [AR Code](https://github.com/learn-co-curriculum/web-080717-ActiveRecord-Intro)
+10. [ActiveRecord Associations](vid coming soon) | [Code](https://github.com/learn-co-curriculum/web-080717-ar-associations)
