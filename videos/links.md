@@ -12,4 +12,4 @@
 11. [AR Queries](video coming soon) | [Code](https://github.com/learn-co-curriculum/web-080717-ar-query-methods)
 
 ## Module 2 
-1. [Intro the Interner and Rack](https://www.youtube.com/watch?v=UJFAOUkXS68) | [Code](https://github.com/learn-co-curriculum/intro-to-the-internet-starter-code)
+1. [Intro the Internet and Rack](https://www.youtube.com/watch?v=UJFAOUkXS68) | [Code](https://github.com/learn-co-curriculum/intro-to-the-internet-starter-code)
