@@ -1,3 +1,4 @@
+## Module 1
 1. Hashketball Review
 2. [Hashes and the Internet](https://www.youtube.com/watch?v=HgvTZRanVCE) | [Code](https://github.com/learn-co-curriculum/web-080717)
 3. Intro to OO
@@ -8,3 +9,7 @@
 8. Dynamic ORMS & Metaprogramming
 9. [Review & Intro to ActiveRecord](https://www.youtube.com/watch?v=L_MI74Zw08A) | [AR Code](https://github.com/learn-co-curriculum/web-080717-ActiveRecord-Intro)
 10. [ActiveRecord Associations](https://www.youtube.com/watch?v=B_tZJvsuSEQ) | [Code](https://github.com/learn-co-curriculum/web-080717-ar-associations)
+11. [AR Queries](video coming soon) | [Code]()
+
+## Module 2 
+1. [Intro the Interner and Rack](https://www.youtube.com/watch?v=UJFAOUkXS68) | [Code](https://github.com/learn-co-curriculum/intro-to-the-internet-starter-code)
