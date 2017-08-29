@@ -14,3 +14,4 @@
 ## Module 2 
 1. [Intro the Internet and Rack](https://www.youtube.com/watch?v=UJFAOUkXS68) | [Code](https://github.com/learn-co-curriculum/intro-to-the-internet-starter-code)
 2. Intro to Sinatra | [Code](https://github.com/RachelSa/sinatra-snack-tracker)
+3. [REST and Forms](video coming soon) | [Code](https://github.com/learn-co-curriculum/web-0807-sinatra-forms-and-rest)
