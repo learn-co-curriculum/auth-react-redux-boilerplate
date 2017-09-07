@@ -19,3 +19,4 @@
 5. [Intro to Ruby on Rails!](http://youtu.be/Sxm6o9LfLrM)
 6. [Rails `form_for` and validations](http://youtu.be/p_Uw2abU1PM) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
 7. [Sessions in Rails](http://youtu.be/LfXeOsveaUk) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
+8. [`has_secure_password`](http://youtu.be/RysOzyHA2ks) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
