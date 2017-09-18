@@ -20,3 +20,6 @@
 6. [Rails `form_for` and validations](http://youtu.be/p_Uw2abU1PM) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
 7. [Sessions in Rails](http://youtu.be/LfXeOsveaUk) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
 8. [`has_secure_password`](http://youtu.be/RysOzyHA2ks) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-web-080717/)
+
+## Module 3
+1. [Javascript & How to do the Labs](https://www.youtube.com/watch?v=ua0xFXA9GC4&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/javascript-intro-web-080717/)
