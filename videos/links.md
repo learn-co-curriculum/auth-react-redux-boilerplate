@@ -23,3 +23,4 @@
 
 ## Module 3
 1. [Javascript & How to do the Labs](https://www.youtube.com/watch?v=ua0xFXA9GC4&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/javascript-intro-web-080717/)
+2. [Functions! Callbacks & Closures](http://youtu.be/4mQ5QdirNdE) 
