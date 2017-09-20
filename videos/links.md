@@ -25,3 +25,4 @@
 1. [Javascript & How to do the Labs](https://www.youtube.com/watch?v=ua0xFXA9GC4&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/javascript-intro-web-080717/)
 2. [Functions! Callbacks & Closures](http://youtu.be/4mQ5QdirNdE) 
 3. [Introduce Functional Library Project - pure functions - iifes - module pattern](http://youtu.be/7A7CUZ-vrY8) | [Code](https://gist.github.com/alexgriff/f806b056f46d9d59012f28d29674686c)
+4. [Function Context & Object Oriented JS](http://youtu.be/6zsVNFSaCTk) | [Code](https://github.com/learn-co-curriculum/js-function-context-and-oo)
