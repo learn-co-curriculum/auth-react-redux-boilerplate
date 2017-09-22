@@ -27,3 +27,4 @@
 3. [Introduce Functional Library Project - pure functions - iifes - module pattern](http://youtu.be/7A7CUZ-vrY8) | [Code](https://gist.github.com/alexgriff/f806b056f46d9d59012f28d29674686c)
 4. [Function Context & Object Oriented JS](http://youtu.be/6zsVNFSaCTk) | [Code](https://github.com/learn-co-curriculum/js-function-context-and-oo)
 5. [The DOM and Events](http://youtu.be/G5QmM2QgSvA) | [DOM Challenge HTML](https://gist.github.com/alexgriff/7cebdfbeb5de35cf0e34cd714eedbd7e)
+5. [Introduce TaskLister]() | [Code](https://gist.github.com/alexgriff/636a66bc9791b6e20d2292690e1d368e)
