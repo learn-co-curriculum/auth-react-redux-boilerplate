@@ -31,4 +31,10 @@
 7. [Async JS, XHR & AJAX](http://youtu.be/dOzan-JTaHU) | [Async - Single Page App](https://github.com/learn-co-curriculum/asynchronous-example-app-starter) | [Synchronous Rails App](https://github.com/learn-co-curriculum/synchronous-example-app-starter)
 8. [Rails API](http://youtu.be/Vv7jjHRWUIM) | [Frontend Code](https://github.com/learn-co-curriculum/zoo-keepr-frontend) | [Backend Code](https://github.com/learn-co-curriculum/web-080717-zoo-keepr-backend)
 9. [Rails API pt 2](http://youtu.be/vM1kycsY-BM) | [Frontend Code](https://github.com/learn-co-curriculum/zoo-keepr-frontend) | [Backend Code](https://github.com/learn-co-curriculum/web-080717-zoo-keepr-backend)
+-----
+*Introduction to Computer Science*
+- [Big O](http://youtu.be/M5kZTcggpNQ)
+- [Recursion Workshop](video coming soon) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
+
+## Module 4
 
