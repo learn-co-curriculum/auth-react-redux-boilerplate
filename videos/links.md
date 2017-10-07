@@ -34,7 +34,7 @@
 -----
 *Introduction to Computer Science*
 - [Big O](http://youtu.be/M5kZTcggpNQ)
-- [Recursion Workshop](video coming soon) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
+- [Recursion Workshop](https://youtu.be/p1NAfvrPmfU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
 
 ## Module 4
 
