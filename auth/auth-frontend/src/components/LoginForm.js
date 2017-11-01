@@ -20,13 +20,13 @@ class LoginForm extends React.Component {
 
   handleLoginSubmit = (event) => {
     event.preventDefault()
+    console.log("I SEE YOU'RE TRYING 2 LOG IN, MY DUDE");
     //TODO: we need some way to log the user in
   }
 
   render() {
-    console.log('rendering login');
     return(
-      <form>
+      <form onSubmit={this.handleLoginSubmit}>
         <input type="text" value={this.state.username} onChange={this.handleUsernameChange}></input>
         <input type="password" value={this.state.password} onChange={this.handlePasswordChange}></input>
         <button type="submit">Login</button>
