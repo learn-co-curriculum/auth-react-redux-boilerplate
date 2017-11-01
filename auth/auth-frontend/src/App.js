@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, NavLink } from 'react-router-dom'
-import Profile from './components/Profile'
-import Login from './components/Login'
+// import Profile from './components/Profile'
+import LoginForm from './components/LoginForm'
 import './App.css';
 
 const App = () => {
