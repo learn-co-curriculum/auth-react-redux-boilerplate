@@ -24,6 +24,7 @@ class LoginForm extends React.Component {
   }
 
   render() {
+    console.log('rendering login');
     return(
       <form>
         <input type="text" value={this.state.username} onChange={this.handleUsernameChange}></input>
