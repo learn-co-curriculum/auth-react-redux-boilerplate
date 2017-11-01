@@ -1,8 +1,8 @@
-export function listReducer(state = {artistData}, action) {
+export function listReducer(state = {artistData, filteredArtists: artistData}, action) {
   switch (action.type) {
     case "FILTER_LIST":
       const filteredState = state.artistData.filter(artist => artist.album.includes(action.payload))
-      return {...state, artistData: filteredState}
+      return {...state, filteredArtists: filteredState}
     default:
       return state;
   }
