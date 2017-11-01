@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, NavLink } from 'react-router-dom'
-// import Profile from './components/Profile'
+import Profile from './components/Profile'
 import LoginForm from './components/LoginForm'
 // import './App.css';
 
@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <NavLink to="/login">Login</NavLink>
       <NavLink to="/profile">Profile</NavLink>
-      {/* <Route exact path="/profile" component={TODO: create an HOC that renders out the profile if user is logged in} /> */}
+      <Route exact path="/profile" component={Profile} />
       <Route exact path="/login" component={LoginForm} />
     </div>
   )

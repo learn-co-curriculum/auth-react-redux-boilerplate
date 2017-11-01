@@ -1,4 +1,6 @@
 import React from 'react'
+import { connect } from 'react-redux'
+import { loginUser } from '../actions/user'
 
 class LoginForm extends React.Component {
   state = {
@@ -20,8 +22,7 @@ class LoginForm extends React.Component {
 
   handleLoginSubmit = (event) => {
     event.preventDefault()
-    console.log("I SEE YOU'RE TRYING 2 LOG IN, MY DUDE");
-    //TODO: we need some way to log the user in
+    this.props.loginUser(this.state.username, this.state.password)
   }
 
   render() {
@@ -35,4 +36,4 @@ class LoginForm extends React.Component {
   }
 }
 
-export default LoginForm
+export default connect(null, { loginUser })(LoginForm)

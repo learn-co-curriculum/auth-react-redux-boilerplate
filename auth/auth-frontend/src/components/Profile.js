@@ -1,10 +1,12 @@
 import React from 'react'
-//TODO: How does this component know about the current user? Wher does it get its props from?
+import { connect } from 'react-redux'
 
 const Profile = (props) => {
   return (
-    <h1>{props.username}</h1>
+    <h1>Hello, {props.username}</h1>
   )
 }
 
-export default Profile
+const mapStateToProps = (state) => ({ username: state.usersReducer.username })
+
+export default connect(mapStateToProps)(Profile)
